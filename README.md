@@ -106,14 +106,6 @@ GROUP BY d.name;
 * Implemented SQL queries using JOIN, GROUP BY, and subqueries
 * Analysed hospital data including revenue and patient flow
 
----
-
-## 📷 Screenshots
-doctorname-doctorname.PNG
-
-
----
-
 ## 🧠 Future Improvements
 
 * Add medicine management system
