@@ -109,6 +109,7 @@ GROUP BY d.name;
 ---
 
 ## 📷 Screenshots
+doctorname-doctorname.PNG
 
 
 ---
